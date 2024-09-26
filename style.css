@@ -1,0 +1,42 @@
+body{
+    background-image: url('img/IMG_6261.JPG');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+   
+}
+.loginbox{
+    width: 300px;
+    height: 400px;
+    margin: 100px auto;
+    box-sizing: border-box;
+    border: 2px solid gray;
+    border-radius: 15px;
+}
+.loginbox h1,h5{
+    text-align: center;
+}
+.loginbox h1{
+    font-weight: bolder;
+    font-size: 30px;
+    color: black;
+}
+.inputbox input{
+    width: 250px;
+    margin: 10px;
+    padding: 5px;
+    font-size: 12px;
+    color: gray;
+    border-radius: 7px;
+    border: none;
+}
+.loginbox h5{
+    color:rgba(0, 0, 128, 0.813);
+    font-size: 12px;
+    font-weight: bold;
+}
+.loginbutton button{
+    width: 250px;
+    margin: 10px;
+    padding: 5px;
+}
